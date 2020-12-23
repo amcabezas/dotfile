@@ -1,2 +1,2 @@
 # dotfile
-Intento de configura bspwm
+Intento de configurar bspwm
