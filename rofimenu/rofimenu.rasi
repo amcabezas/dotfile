@@ -182,6 +182,6 @@ element-text {
 	highlight:			inherit;
 }
 element-icon {
-	size:				2.5ch;
+	size:				1.5ch;
 }
 

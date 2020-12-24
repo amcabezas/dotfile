@@ -287,8 +287,8 @@ super + shift + z
 super + r
 	rofi-finder.sh
 	
-super + w
-	rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
+#super + w
+#	rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
 
 super + shift + b
 	$BROWSER
