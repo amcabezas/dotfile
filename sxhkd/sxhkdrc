@@ -277,7 +277,7 @@ super + y
 	$TERMINAL -e yayfzf
 
 super + shift + Return
-	default-terminal
+	alacritty
 super + z
 	default-terminal
 
